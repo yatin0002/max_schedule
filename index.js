@@ -40,7 +40,6 @@ const dbConfig = {
     user: 'scsit_qa2',
     password: 'adgft12365@##',
     server: '10.10.152.16',
-    port: 1433,
     database: 'z_scope',
     options: {
         // Use encryption if needed
